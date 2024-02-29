@@ -1,1 +1,5 @@
 
+  name:name777,
+  age:---,
+  salary:500 000 $
+
