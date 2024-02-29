@@ -1,0 +1,5 @@
+favorite movie:pretty women,
+favorite series:the big bang theory,
+favorite food:fish,
+favorite season:summer,
+country:USA
